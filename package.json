@@ -1,0 +1,24 @@
+{
+  "name": "random-web",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Alexey Nalivaiko <nalliffunt.dev@pm.me>",
+  "homepage": "https://github.com/NaLLiFFuNT/random-web",
+  "repository": "https://github.com/NaLLiFFuNT/random-web",
+  "license": "MIT",
+  "main": "lib/random-web.js",
+  "typings": "lib/random-web.d.ts",
+  "private": false,
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
