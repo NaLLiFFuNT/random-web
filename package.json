@@ -1,7 +1,7 @@
 {
   "name": "random-web",
-  "version": "0.0.1",
-  "description": "> TODO: description",
+  "version": "0.0.2",
+  "description": "Obtain cryptographically strong random bytes. For Browser.",
   "author": "Alexey Nalivaiko <nalliffunt.dev@pm.me>",
   "homepage": "https://github.com/NaLLiFFuNT/random-web",
   "repository": "https://github.com/NaLLiFFuNT/random-web",
