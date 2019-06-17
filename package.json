@@ -1,6 +1,6 @@
 {
   "name": "random-web",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Obtain cryptographically strong random bytes. For Browser.",
   "author": "Alexey Nalivaiko <nalliffunt.dev@pm.me>",
   "homepage": "https://github.com/NaLLiFFuNT/random-web",
@@ -20,5 +20,8 @@
   },
   "scripts": {
     "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
   }
 }
